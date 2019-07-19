@@ -1,4 +1,4 @@
-# TM1637
+# TM1637 not I2C, but 2-wire connection
 # Raspberry Pi Python 3 TM1637
 
 A Python 3 port from MicroPython library for the quad 7-segment LED display modules based on the TM1637 LED driver, implemented on Raspberry Pi.
